@@ -1,5 +1,8 @@
 # befor
-Tokyo OSS party team-G
+
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
+Tokyo OSS party team-G project
 
 ## Features
 - Open-source project
