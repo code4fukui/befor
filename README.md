@@ -2,7 +2,7 @@
 
 > 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
-Tokyo OSS party team-G project
+befor is an open-source project developed by the Tokyo OSS party team-G.
 
 ## Features
 - Open-source project
