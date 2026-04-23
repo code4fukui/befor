@@ -15,4 +15,4 @@ To use this project, follow these steps:
 3. Run the application
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+MIT License — see [LICENSE](LICENSE).
